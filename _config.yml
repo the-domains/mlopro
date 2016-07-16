@@ -1,0 +1,14 @@
+layout_spectrum: 0.6562118642032146
+typography_spectrum: 0.6116735802497715
+color:
+  brandStrength: 0.47917776880785823
+  lightness: 0.6349889042321593
+  saturation: 0.8076665010303259
+  rhythmicContrast: 0.33792415144853294
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: MLOPro
